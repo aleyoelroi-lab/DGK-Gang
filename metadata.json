@@ -1,0 +1,6 @@
+{
+  "name": "Don't Get Kiss",
+  "description": "4-player multiplayer online cat escape simulator. Team up with fellow feline operatives to complete shared weird house missions. If time expires, the scary Kiss Monster chases cats at 1.5x speed to deliver sloppy lipstick kisses! Climb towering cat condos, bookcases, and chandeliers to escape. Features automatic mic voice chat, custom voice recording, and 3x expanded mansion!",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
